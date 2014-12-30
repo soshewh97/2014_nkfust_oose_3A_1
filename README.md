@@ -251,3 +251,336 @@
 
 <h7>二. 儲存圖片作業</h7>
 <a href="http://imgur.com/EMCQS5P"><img src="http://i.imgur.com/EMCQS5P.jpg" title="source: imgur.com" /></a>
+
+<h7>三. 搜尋已儲存之圖片</h7>
+<a href="http://imgur.com/KMIklOm"><img src="http://i.imgur.com/KMIklOm.jpg" title="source: imgur.com" /></a>
+
+<h7>四. 問題回報</h7>
+<a href="http://imgur.com/wikjQlT"><img src="http://i.imgur.com/wikjQlT.jpg" title="source: imgur.com" /></a>
+
+
+**七：名詞與概念類別列舉表**
+
+<h7>(一)截取圖片作業</h7>
+<table border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td>名詞</td>
+		<td>原因</td>
+		<td>結果(是否為概念類別)</td>
+	</tr>
+	<tr>
+		<td>使用者</td>
+		<td>有使用本系統需求的人，稱為使用者，所以必須為一個體。</td>
+		<td>是</td>
+	</tr>
+	<tr>
+		<td>圖片</td>
+		<td>本系統主要目的為截取圖片，所以圖片必須為一個體。</td>
+		<td>是</td>
+	</tr>
+</table>
+
+
+<h7>(二)儲存圖片作業</h7>
+
+<table border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td>名詞</td>
+		<td>原因</td>
+		<td>結果(是否為概念類別)</td>
+	</tr>
+	<tr>
+		<td>使用者</td>
+		<td>有使用本系統需求的人，稱為使用者，所以必須為一個體</td>
+		<td>是</td>
+	</tr>
+	<tr>
+		<td>圖片編號</td>
+		<td>為圖片屬性</td>
+		<td>否</td>
+	</tr>
+	<tr>
+		<td>圖片名稱</td>
+		<td>為圖片屬性</td>
+		<td>否</td>
+	</tr>
+	<tr>
+		<td>圖片檔案格式</td>
+		<td>為圖片屬性</td>
+		<td>否</td>
+	</tr>
+	<tr>
+		<td>圖片儲存位置</td>
+		<td>為圖片屬性</td>
+		<td>否</td>
+	</tr>
+</table>
+
+
+<h7>(三)搜尋已儲存之圖片</h7>
+
+<table border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td>名詞</td>
+		<td>原因</td>
+		<td>結果(是否為概念類別)</td>
+	</tr>
+	<tr>
+		<td>使用者</td>
+		<td>有使用本系統需求的人，稱為使用者，所以必須為一個體。</td>
+		<td>是</td>
+	</tr>
+	<tr>
+		<td>圖片儲存位置</td>
+		<td>為圖片屬性</td>
+		<td>否</td>
+	</tr>
+</table>
+
+
+<h7>(四)問題整理及分類作業</h7>
+
+
+<table border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td>名詞</td>
+		<td>原因</td>
+		<td>結果(是否為概念類別)</td>
+	</tr>
+	<tr>
+		<td>使用者</td>
+		<td>有使用本系統需求的人，稱為使用者，所以必須為一個體。</td>
+		<td>是</td>
+	</tr>
+	<tr>
+		<td>專案人員</td>
+		<td>維護系統並處理使用者的回應，所以必須為一個體</td>
+		<td>是</td>
+	</tr>
+	<tr>
+		<td>問題</td>
+		<td>使用者提供的BUG或更好的建議，所以必須為一個體</td>
+		<td>是</td>
+	</tr>
+</table>
+
+
+**八：個別案例最初的初步類別圖**
+
+<h7>【1.截取圖片作業】</h7>
+
+<a href="http://imgur.com/z7LYHOR"><img src="http://i.imgur.com/z7LYHOR.png" title="source: imgur.com" /></a>
+
+<h7>【2. 儲存圖片作業】</h7>
+
+<a href="http://imgur.com/W3ev1rs"><img src="http://i.imgur.com/W3ev1rs.png" title="source: imgur.com" /></a>
+
+<h7>【3. 搜尋已儲存之圖片】</h7>
+
+<a href="http://imgur.com/P3SZoLM"><img src="http://i.imgur.com/P3SZoLM.png" title="source: imgur.com" /></a>
+
+<h7>【4.問題整理及分類作業】</h7>
+
+<a href="http://imgur.com/XNrvK8K"><img src="http://i.imgur.com/XNrvK8K.png" title="source: imgur.com" /></a>
+
+
+
+**九：整個系統的初步類別圖**
+
+<a href="http://imgur.com/FieBv8P"><img src="http://i.imgur.com/FieBv8P.png" title="source: imgur.com" /></a>
+
+
+**十：使用案例主要成功情節之英文名稱事件對應**
+
+<table border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td colspan="2">使用案例：截取圖片作業</td>
+	<tr>
+	<tr>
+		<td>主要成功情節：<br>
+		1.	當使用者要截取畫面圖片，使用者開啟程式<br>
+		2.	系統啟動進入主畫面<br>
+		3.	使用者點選截取圖片並截取圖片<br>
+		4.	系統截取圖片<br>
+	</td>
+	<td>
+		Operating System<br>
+		System menu<br>
+		catchphoto(length,weight)<br>
+		</td>
+	</tr>
+</table>
+
+
+
+<table border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td colspan="2">使用案例：搜尋已儲存之圖片</td>
+	<tr>
+	<tr>
+		<td>主要成功情節：<br>
+			1.	儲存好圖片後，使用者尋找已儲存的位置<br>
+			2.	系統回到主畫面<br>
+			3.	使用者選取圖片位置<br>
+			4.	系統開取圖片儲存位置的文件夾<br>
+			5.	回到主畫面<br>
+		</td>
+		<td>
+			backtomenu()<br>
+			openPhotoLocation()<br>
+			backMain()<br>
+		</td>
+	</tr>
+</table>
+
+
+
+
+<table border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td colspan="2">使用案例：問題整理及分類作業</td>
+	<tr>
+	<tr>
+		<td>主要成功情節：<br>
+			1.	使用者在使用過程中發現BUG或有一些建議想提供給專案人員，在主畫面選擇BUG回報與建議<br>
+			2.	系統開啟問題回報的畫面<br>
+			3.	使用者輸入使用者基本資料和問題與建議<br>
+			4.	系統確認使用者基本資料是否有誤<br>
+			5.	系統送出問題與建議<br>
+			6.	回到主畫面<br>
+		</td>
+		<td>
+			Checkuserame(uerName,userEmail)<br>
+			sendBug()<br>
+		</td>
+	</tr>
+</table>
+
+
+**十一：每個名稱事件之合約**
+
+<table border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td>合約: catchphoto()</td>
+	</tr>
+	<tr>
+		<td>操作：catchphoto(length,weight)<br>
+		交互參照：截取圖片作業<br>
+		前置條件：存在類別Photo之實例newPhoto<br>
+		</td>
+	</tr>
+</table>
+
+
+<table border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td>合約: photoSettings()</td>
+	</tr>
+	<tr>
+		<td>操作：photoSettings(photoName、photoID)<br>
+		交互參照：儲存圖片作業<br>
+		前置條件：存在類別Photo之實例newPhoto<br>
+		後置條件：根據photo(length,weight)或photoSettings(photoName、photoID)讀取圖片基本資料並存入至類別Photo之屬性中<br>
+		</td>
+	</tr>
+</table>
+
+
+<table border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td>合約: checkPhoto()</td>
+	</tr>
+	<tr>
+		<td>操作：checkPhoto()<br>
+		交互參照：儲存圖片作業<br>
+		前置條件：存在類別Photo之實例newPhoto<br>
+		後置條件：根據photo(length,weight)和photoSettings(photoName、photoID)尋找Photo實例，並形成關聯<br>
+		</td>
+	</tr>
+</table>
+
+<table border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td>合約: savePhoto ()</td>
+	</tr>
+	<tr>
+		<td>操作：savePhoto()<br>
+		交互參照：儲存圖片作業<br>
+		前置條件：存在類別savePhoto之實例newsavePhoto<br>
+		後置條件：回傳newSavePhoto紀錄至實例photoRec<br>
+		</td>
+	</tr>
+</table>
+
+<table border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td>合約: backMain()</td>
+	</tr>
+	<tr>
+		<td>操作：backMain()<br>
+		交互參照：圖片搜尋作業<br>
+		前置條件：存在類別Photo之實例photoRec<br>
+		後置條件：回到主頁面<br>
+		</td>
+	</tr>
+</table>
+
+
+<table border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td>合約: openPhotoLocation()</td>
+	</tr>
+	<tr>
+		<td>
+		操作：openPhotoLocation()<br>
+		交互參照：搜尋已儲存之圖片<br>
+		前置條件：存在類別Photo之實例photoRec<br>
+		後置條件：回傳photoRec紀錄<br>
+		</td>
+	</tr>
+</table>
+
+<table border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td>合約: checkCName()</td>
+	</tr>
+	<tr>
+		<td>
+		操作：checkCName(CustomerName,CustomerEmail)<br>
+		交互參照：問題整理及分類作業<br>
+		前置條件：存在類別CName之實例checkCName<br>
+		後置條件：回傳CName紀錄<br>
+		</td>
+	</tr>
+</table>
+
+<table border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td>合約: sendBug()</td>
+	</tr>
+	<tr>
+		<td>
+		操作：sendBug()<br>
+		交互參照：問題整理及分類作業<br>
+		前置條件：存在類別Bug之實例sendBug<br>
+		後置條件：回傳sendBug訊息，傳送BugRec至程式維護人員<br>
+		</td>
+	</tr>
+</table>
+
+
+
+**十二：使用案例之系統循序圖**
+
+<h7>【截取圖片作業】之系統循序圖</h7>
+<a href="http://imgur.com/Dam8frC"><img src="http://i.imgur.com/Dam8frC.png" title="source: imgur.com" /></a>
+
+
+<h7>【儲存圖片作業】之系統循序圖</h7>
+<a href="http://imgur.com/WO9ADXK"><img src="http://i.imgur.com/WO9ADXK.png" title="source: imgur.com" /></a>
+
+<h7>【搜尋已儲存之圖片】之系統循序圖</h7>
+<a href="http://imgur.com/QBRqPTv"><img src="http://i.imgur.com/QBRqPTv.png" title="source: imgur.com" /></a>
+
+<h7>【問題整理及分類作業】之系統循序圖</h7>
+<a href="http://imgur.com/OseBT13"><img src="http://i.imgur.com/OseBT13.png" title="source: imgur.com" /></a>
